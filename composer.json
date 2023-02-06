@@ -1,0 +1,17 @@
+{
+    "name": "zaurbek_makhmudov/tilda_test",
+    "description": "Tilda Publishing",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zaurbek Makhmudov",
+            "email": "zaurbekya1@gmail.com"
+        }
+    ],
+    "require": {}
+}

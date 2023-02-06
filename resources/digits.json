@@ -1,0 +1,25 @@
+{
+  "digits": [
+    {
+      "id": 1,
+      "city": "MSK",
+      "number": "100-10-11"
+    },
+    {
+      "id": 2,
+      "city": "SPB",
+      "number": "123-10-11"
+    },
+    {
+      "id": 3,
+      "city": "NSK",
+      "number": "321-01-11"
+    },
+    {
+      "id": 4,
+      "city": "KZN",
+      "number": "321-10-11"
+    }
+  ],
+  "default_city": "MSK"
+}
